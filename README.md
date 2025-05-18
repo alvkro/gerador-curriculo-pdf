@@ -2,7 +2,7 @@
 
 Este é o meu **primeiro projeto grande com Python**, feito com muito estudo e dedicação. O objetivo é gerar um currículo personalizado em formato PDF, a partir de informações inseridas pelo próprio usuário.
 
-## 🔧 Tecnologias utilizadas:
+## Tecnologias utilizadas:
 
 - Python 3.12
 - [ReportLab](https://www.reportlab.com/) – para geração de PDF
